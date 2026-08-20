@@ -1,0 +1,9 @@
+{
+  "path": "Lulu_Ellie_Mystery_Tails_Book19_Final.pdf",
+  "size": 113515803,
+  "sha256": "c0f7e4934c95cfd44c34911bdddeb5c68d2fd84217a30e6eb6264b0c89d4f05a",
+  "chunks": [
+    ".chunks/Mystery19.part001",
+    ".chunks/Mystery19.part002"
+  ]
+}
